@@ -4,4 +4,6 @@
 
 **React Native | Firebase**
 
-###### *Nota: Não tem o ficheiro de configuração e ligação ao Firebase.* 
+###### *Nota: Não tem o ficheiro de configuração e ligação ao Firebase.*
+
+###### O processo detalhado pela designer do UX/UI da aplicação: https://www.behance.net/gallery/124261497/VIVAZ-UXUI-Branding
